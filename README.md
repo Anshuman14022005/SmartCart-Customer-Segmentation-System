@@ -51,7 +51,7 @@ This project uses a customer marketing dataset with demographic and purchase-his
 ## Setup
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Anshuman14022005/SmartCart-Customer-Segmentation-System
 cd smartcart
 pip install -r requirements.txt
 jupyter notebook smartcart.ipynb
