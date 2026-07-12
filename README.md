@@ -70,6 +70,3 @@ jupyter notebook smartcart.ipynb
 
 Four customer segments were identified, differing primarily in income level and total spending, with clear separation visible in PCA space. See the notebook's final section (`Characterization of Clusters`) for per-cluster summary statistics.
 
-## License
-
-Add a license of your choice (e.g., MIT) if you intend this repo to be public.
